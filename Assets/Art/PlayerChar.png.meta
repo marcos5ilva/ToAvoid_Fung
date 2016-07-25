@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 804ce839cbdd7b440a957f7e102b38be
+timeCreated: 1463326837
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerChar_RightLegUp
+    21300002: PlayerChar_LeftLegUp
+    21300004: PlayerChar_Head
+    21300006: PlayerChar_RightArmUp
+    21300008: PlayerChar_LeftArmUp
+    21300010: PlayerChar_RightLegDown
+    21300012: PlayerChar_LeftLegDown
+    21300014: PlayerChar_Body
+    21300016: PlayerChar_RightArmDown
+    21300018: PlayerChar_LeftarmDown
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerChar_RightLegUp
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 388
+        width: 137
+        height: 345
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.97378993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.49999, y: -13.95752}
+        - {x: 54.499992, y: -0.95751953}
+        - {x: 28.499992, y: 9.04248}
+        - {x: -39.500008, y: 9.04248}
+        - {x: -68.50001, y: -10.95752}
+        - {x: -68.50001, y: -57.95752}
+        - {x: -60.500008, y: -106.95752}
+        - {x: -53.500008, y: -221.95752}
+        - {x: -58.500008, y: -302.95752}
+        - {x: -52.500008, y: -317.95752}
+        - {x: -29.500008, y: -335.95752}
+        - {x: 17.499992, y: -335.95752}
+        - {x: 45.499992, y: -312.95752}
+        - {x: 68.49999, y: -57.95752}
+    - name: PlayerChar_LeftLegUp
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 390
+        width: 123
+        height: 346
+      alignment: 9
+      pivot: {x: 0.5127784, y: 0.95425063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.928253, y: -7.1707153}
+        - {x: 37.928253, y: 15.829285}
+        - {x: -36.071747, y: 15.829285}
+        - {x: -63.071747, y: -9.170715}
+        - {x: -63.071747, y: -148.17072}
+        - {x: -43.071747, y: -238.17072}
+        - {x: -52.071747, y: -244.17072}
+        - {x: -47.071747, y: -296.17072}
+        - {x: -27.071747, y: -326.17072}
+        - {x: -11.071747, y: -330.17072}
+        - {x: 26.928253, y: -330.17072}
+        - {x: 37.928253, y: -319.17072}
+        - {x: 43.928253, y: -307.17072}
+        - {x: 59.928253, y: -204.17072}
+    - name: PlayerChar_Head
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 618
+        width: 158
+        height: 164
+      alignment: 9
+      pivot: {x: 0.37068233, y: 0.1549917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.43219, y: 138.58136}
+        - {x: -39.56781, y: 138.58136}
+        - {x: -58.56781, y: 99.58136}
+        - {x: -58.56781, y: 5.58136}
+        - {x: -41.56781, y: -25.41864}
+        - {x: 72.43219, y: -25.41864}
+        - {x: 87.43219, y: -10.41864}
+        - {x: 99.43219, y: 42.58136}
+        - {x: 99.43219, y: 93.58136}
+    - name: PlayerChar_RightArmUp
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 456
+        width: 86
+        height: 249
+      alignment: 9
+      pivot: {x: 0.6279304, y: 0.89766073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.002014, y: 25.482483}
+        - {x: -46.002014, y: 23.482483}
+        - {x: -54.002014, y: -74.51752}
+        - {x: -54.002014, y: -223.51752}
+        - {x: 5.997986, y: -223.51752}
+        - {x: 31.997986, y: -88.51752}
+        - {x: 31.997986, y: 22.482483}
+        - {x: 26.997986, y: 25.482483}
+    - name: PlayerChar_LeftArmUp
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 450
+        width: 82
+        height: 254
+      alignment: 9
+      pivot: {x: 0.32749605, y: 0.92695963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.854675, y: 18.552246}
+        - {x: -26.854675, y: 14.552246}
+        - {x: -26.854675, y: -52.447754}
+        - {x: -18.854675, y: -110.447754}
+        - {x: 4.1453247, y: -235.44775}
+        - {x: 54.145325, y: -235.44775}
+        - {x: 55.145325, y: -230.44775}
+        - {x: 55.145325, y: -94.447754}
+        - {x: 41.145325, y: 18.552246}
+    - name: PlayerChar_RightLegDown
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 154
+        height: 357
+      alignment: 9
+      pivot: {x: 0.5816471, y: 0.96666914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.426346, y: -161.10089}
+        - {x: 49.426346, y: -22.100891}
+        - {x: 39.426346, y: -4.100891}
+        - {x: 18.426346, y: 11.899109}
+        - {x: -29.573654, y: 11.899109}
+        - {x: -60.573654, y: -20.100891}
+        - {x: -77.573654, y: -125.10089}
+        - {x: -89.573654, y: -261.1009}
+        - {x: -89.573654, y: -336.1009}
+        - {x: -75.573654, y: -345.1009}
+        - {x: 62.426346, y: -345.1009}
+        - {x: 64.426346, y: -344.1009}
+        - {x: 64.426346, y: -321.1009}
+        - {x: 19.426346, y: -290.1009}
+    - name: PlayerChar_LeftLegDown
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2
+        width: 158
+        height: 358
+      alignment: 9
+      pivot: {x: 0.43036738, y: 0.9653656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.001953, y: -95.60089}
+        - {x: 55.001953, y: -26.600891}
+        - {x: 35.001953, y: 12.399109}
+        - {x: -29.998047, y: 12.399109}
+        - {x: -61.998047, y: -18.600891}
+        - {x: -45.998047, y: -50.60089}
+        - {x: -61.998047, y: -165.60089}
+        - {x: -67.99805, y: -229.60089}
+        - {x: -67.99805, y: -338.6009}
+        - {x: -45.998047, y: -345.6009}
+        - {x: 90.00195, y: -345.6009}
+        - {x: 90.00195, y: -308.6009}
+        - {x: 68.00195, y: -275.6009}
+    - name: PlayerChar_Body
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 70
+        width: 247
+        height: 535
+      alignment: 9
+      pivot: {x: 0.5190897, y: 0.029377775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.78485, y: 112.2829}
+        - {x: 78.78485, y: 137.2829}
+        - {x: 92.78485, y: 250.2829}
+        - {x: 108.78485, y: 293.2829}
+        - {x: 114.78485, y: 311.2829}
+        - {x: 118.78485, y: 345.2829}
+        - {x: 118.78485, y: 418.2829}
+        - {x: 112.78485, y: 425.2829}
+        - {x: 93.78485, y: 433.2829}
+        - {x: 56.78485, y: 455.2829}
+        - {x: 69.78485, y: 480.2829}
+        - {x: 70.78485, y: 483.2829}
+        - {x: 58.78485, y: 491.2829}
+        - {x: 14.784851, y: 519.2829}
+        - {x: 2.784851, y: 519.2829}
+        - {x: -8.215149, y: 486.2829}
+        - {x: -37.21515, y: 453.2829}
+        - {x: -67.21515, y: 436.2829}
+        - {x: -102.21515, y: 417.2829}
+        - {x: -119.21515, y: 353.2829}
+        - {x: -119.21515, y: 348.2829}
+        - {x: -89.21515, y: 238.2829}
+        - {x: -85.21515, y: 140.2829}
+        - {x: -98.21515, y: 124.2829}
+        - {x: -104.21515, y: 114.2829}
+        - {x: -128.21515, y: 50.282898}
+        - {x: -128.21515, y: 36.282898}
+        - {x: -126.21515, y: 32.282898}
+        - {x: -111.21515, y: 0.28289795}
+        - {x: -86.21515, y: -3.717102}
+        - {x: -54.21515, y: -9.717102}
+        - {x: -3.215149, y: -15.717102}
+        - {x: 22.784851, y: -15.717102}
+        - {x: 26.784851, y: -14.717102}
+        - {x: 71.78485, y: 6.282898}
+        - {x: 89.78485, y: 16.282898}
+        - {x: 93.78485, y: 66.2829}
+    - name: PlayerChar_RightArmDown
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 182
+        width: 78
+        height: 251
+      alignment: 9
+      pivot: {x: 0.2984987, y: 0.9571099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.282898, y: -145.23459}
+        - {x: 6.717102, y: -240.23459}
+        - {x: 54.717102, y: -240.23459}
+        - {x: 54.717102, y: -85.23459}
+        - {x: 38.717102, y: 10.765411}
+        - {x: -19.282898, y: 10.765411}
+        - {x: -23.282898, y: -12.234589}
+    - name: PlayerChar_LeftarmDown
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 163
+        width: 72
+        height: 250
+      alignment: 9
+      pivot: {x: 0.6091461, y: 0.9212174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.85852, y: 19.695648}
+        - {x: -43.85852, y: -2.3043518}
+        - {x: -43.85852, y: -230.30435}
+        - {x: 20.14148, y: -230.30435}
+        - {x: 28.14148, y: -159.30435}
+        - {x: 28.14148, y: 19.695648}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
